@@ -31,6 +31,9 @@ List any prerequisites that need to be installed before getting started. For exa
 - TextBlob
 - Other dependencies...
 
+# Note 
+Get your ClientID and Secret code from spotify developers dashboard 
+
 # Usage
 Explain how to use the song prediction feature within your Flask-based project, including any configuration or setup required.
 
