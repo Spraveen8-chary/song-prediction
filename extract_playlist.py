@@ -12,8 +12,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Set your Spotify API credentials
-CLIENT_ID = '591a088490014263bd23ce65d646d89f'
-CLIENT_SECRET = '2a53475f23e34ffb978856cd37342345'
+CLIENT_ID = 'YOUR_CLIENT_ID'
+CLIENT_SECRET = 'YOUR_CLIENT_SECRET_ID'
 REDIRECT_URI = 'http://localhost:8080'
 # Set up authentication# This should match the redirect URI in your Spotify App settings
 
