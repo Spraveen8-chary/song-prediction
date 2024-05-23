@@ -54,7 +54,7 @@ Your web application will be accessible at `http://localhost:5000`.
 
 - ``text analysis``
   ![image](https://github.com/Spraveen8-chary/song-prediction/assets/108536707/81a3b0e3-d5bb-4cf4-bec1-ed9d52c73a9f)
-- similar songs
+- ``similar songs``
     ![image](https://github.com/Spraveen8-chary/song-prediction/assets/108536707/d19840c9-83d9-48bd-ad45-93bf11a6df80)
 
 
