@@ -14,7 +14,7 @@ This project involves the prediction of song themes based on text analysis using
 
 - `model.pkl`: This is a serialized pickle model that you've built for predicting song themes based on text analysis.
 
-- `model.py`: In this file, you've developed your model using TextBlob for predicting themes of songs.
+- `model.py`: In this file, I 've developed a model using TextBlob for predicting themes of songs.
 
 - `playlist_data.csv`: This CSV file contains the data extracted from Spotify playlists, converted into a structured format.
 
@@ -32,10 +32,7 @@ List any prerequisites that need to be installed before getting started. For exa
 - Other dependencies...
 
 # Note 
-Get your ClientID and Secret code from spotify developers dashboard 
-
-# Usage
-Explain how to use the song prediction feature within your Flask-based project, including any configuration or setup required.
+Get your ClientID and Secret code from spotify developers dashboard. 
 
 - To run the Flask web application, execute the following command:
 
@@ -44,8 +41,6 @@ Explain how to use the song prediction feature within your Flask-based project, 
 ```
 
 Your web application will be accessible at `http://localhost:5000`.
-
-- To predict themes for songs and play them, navigate to the appropriate section of your web application and follow the on-screen instructions.
 
 # Output
 
